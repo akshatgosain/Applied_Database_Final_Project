@@ -1,0 +1,14 @@
+name: TusinamiVolcano
+title: TusinamiVolcano
+username:
+account: akshatgosain
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6715192
+bundleId: 6147687
+url: https://akshatgosain.shinyapps.io/TusinamiVolcano/
+when: 1659153402.87973
+lastSyncTime: 1659153402.87976
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .ipynb_checkpoints/Final_project_part2-Copy1-checkpoint.ipynb
